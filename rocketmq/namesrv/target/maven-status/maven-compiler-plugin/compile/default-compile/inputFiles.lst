@@ -1,0 +1,8 @@
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/routeinfo/RouteInfoManager.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/NamesrvController.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/DefaultRequestProcessor.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/processor/ClusterTestRequestProcessor.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/NamesrvStartup.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigSerializeWrapper.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/kvconfig/KVConfigManager.java
+/root/rockermq/rocketmq/namesrv/src/main/java/org/apache/rocketmq/namesrv/routeinfo/BrokerHousekeepingService.java

@@ -1,0 +1,8 @@
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/index/IndexFileTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/ConsumeQueueTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/AppendCallbackTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/ConsumeQueueExtTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/DefaultMessageStoreTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/MappedFileTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/StoreCheckpointTest.java
+/root/rockermq/rocketmq/store/src/test/java/org/apache/rocketmq/store/MappedFileQueueTest.java

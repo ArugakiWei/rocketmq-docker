@@ -1,0 +1,7 @@
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/RemotingServerTest.java
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/netty/NettyRemotingClientTest.java
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/protocol/RemotingCommandTest.java
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/protocol/RocketMQSerializableTest.java
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/protocol/RemotingSerializableTest.java
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/netty/NettyRemotingAbstractTest.java
+/root/rockermq/rocketmq/remoting/src/test/java/org/apache/rocketmq/remoting/netty/FileRegionEncoderTest.java

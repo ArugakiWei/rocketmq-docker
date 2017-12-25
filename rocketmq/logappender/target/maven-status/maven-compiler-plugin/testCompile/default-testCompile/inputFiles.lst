@@ -1,0 +1,6 @@
+/root/rockermq/rocketmq/logappender/src/test/java/org/apache/rocketmq/logappender/Log4jXmlTest.java
+/root/rockermq/rocketmq/logappender/src/test/java/org/apache/rocketmq/logappender/log4j2Test.java
+/root/rockermq/rocketmq/logappender/src/test/java/org/apache/rocketmq/logappender/Log4jTest.java
+/root/rockermq/rocketmq/logappender/src/test/java/org/apache/rocketmq/logappender/AbstractTestCase.java
+/root/rockermq/rocketmq/logappender/src/test/java/org/apache/rocketmq/logappender/LogbackTest.java
+/root/rockermq/rocketmq/logappender/src/test/java/org/apache/rocketmq/logappender/Log4jPropertiesTest.java

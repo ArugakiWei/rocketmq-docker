@@ -1,0 +1,6 @@
+#Wed Dec 13 05:36:19 EST 2017
+/root/rockermq/rocketmq/logappender/src/main/java/org/apache/rocketmq/logappender/log4j2/RocketmqLog4j2Appender.java=1513158002000
+/root/rockermq/rocketmq/logappender/src/main/java/org/apache/rocketmq/logappender/logback/RocketmqLogbackAppender.java=1513158002000
+/root/rockermq/rocketmq/logappender/src/main/java/org/apache/rocketmq/logappender/common/ProducerInstance.java=1513158002000
+/root/rockermq/rocketmq/logappender/src/main/java/org/apache/rocketmq/logappender/log4j/RocketmqLog4jAppender.java=1513158002000
+configuration*?=78291C698914F6CEDF449CB99B778F7668B476DB

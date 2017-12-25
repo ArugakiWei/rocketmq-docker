@@ -1,0 +1,7 @@
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/producer/SequenceProducerImplTest.java
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/utils/BeanUtilsTest.java
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/consumer/LocalMessageCacheTest.java
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/consumer/PullConsumerImplTest.java
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/consumer/PushConsumerImplTest.java
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/producer/ProducerImplTest.java
+/root/rockermq/rocketmq/openmessaging/src/test/java/io/openmessaging/rocketmq/promise/DefaultPromiseTest.java

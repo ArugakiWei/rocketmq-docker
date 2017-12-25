@@ -1,0 +1,16 @@
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/domain/BytesMessageImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/config/ClientConfig.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/domain/SendResultImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/consumer/PullConsumerImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/MessagingAccessPointImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/domain/ConsumeRequest.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/producer/SequenceProducerImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/consumer/LocalMessageCache.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/consumer/PushConsumerImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/producer/AbstractOMSProducer.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/producer/ProducerImpl.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/domain/NonStandardKeys.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/promise/FutureState.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/utils/OMSUtil.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/promise/DefaultPromise.java
+/root/rockermq/rocketmq/openmessaging/src/main/java/io/openmessaging/rocketmq/utils/BeanUtils.java

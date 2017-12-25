@@ -1,0 +1,5 @@
+/root/rockermq/rocketmq/filter/src/test/java/org/apache/rocketmq/filter/ExpressionTest.java
+/root/rockermq/rocketmq/filter/src/test/java/org/apache/rocketmq/filter/BitsArrayTest.java
+/root/rockermq/rocketmq/filter/src/test/java/org/apache/rocketmq/filter/ParserTest.java
+/root/rockermq/rocketmq/filter/src/test/java/org/apache/rocketmq/filter/FilterSpiTest.java
+/root/rockermq/rocketmq/filter/src/test/java/org/apache/rocketmq/filter/BloomFilterTest.java

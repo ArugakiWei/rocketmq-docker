@@ -1,0 +1,12 @@
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/message/MessageDecoderTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/message/MessageTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/RemotingUtilTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/UtilAllTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/MQVersionTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/MessageEncodeDecodeTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/DataVersionTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/BrokerConfigTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/filter/FilterAPITest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/MessageBatchTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/MixAllTest.java
+/root/rockermq/rocketmq/common/src/test/java/org/apache/rocketmq/common/protocol/ConsumeStatusTest.java

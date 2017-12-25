@@ -1,0 +1,15 @@
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/impl/consumer/ProcessQueueTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/impl/consumer/RebalancePushImplTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/consumer/DefaultMQPushConsumerTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/consumer/store/RemoteBrokerOffsetStoreTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/producer/DefaultMQProducerTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/log/ClientLoggerTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/impl/MQClientAPIImplTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/latency/LatencyFaultToleranceImplTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/common/ThreadLocalIndexTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/consumer/store/LocalFileOffsetStoreTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/ValidatorsTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/consumer/DefaultMQPullConsumerTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/consumer/rebalance/AllocateMessageQueueConsitentHashTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/impl/factory/MQClientInstanceTest.java
+/root/rockermq/rocketmq/client/src/test/java/org/apache/rocketmq/client/producer/selector/SelectMessageQueueByHashTest.java

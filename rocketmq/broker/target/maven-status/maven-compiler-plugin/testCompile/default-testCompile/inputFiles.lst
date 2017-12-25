@@ -1,0 +1,9 @@
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/client/ProducerManagerTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/filter/MessageStoreWithFilterTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/processor/PullMessageProcessorTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/BrokerStartupTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/filter/CommitLogDispatcherCalcBitMapTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/processor/SendMessageProcessorTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/BrokerControllerTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/processor/ClientManageProcessorTest.java
+/root/rockermq/rocketmq/broker/src/test/java/org/apache/rocketmq/broker/filter/ConsumerFilterManagerTest.java

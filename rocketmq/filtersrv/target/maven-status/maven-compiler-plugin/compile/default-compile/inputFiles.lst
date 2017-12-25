@@ -1,0 +1,12 @@
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/stats/FilterServerStatsManager.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FiltersrvConfig.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/filter/DynaCode.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/filter/FilterClassLoader.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FiltersrvStartup.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/filter/FilterClassInfo.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FilterServerOuterAPI.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/filter/HttpFilterClassFetchMethod.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/filter/FilterClassFetchMethod.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/processor/DefaultRequestProcessor.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/FiltersrvController.java
+/root/rockermq/rocketmq/filtersrv/src/main/java/org/apache/rocketmq/filtersrv/filter/FilterClassManager.java
